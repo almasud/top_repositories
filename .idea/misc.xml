@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Practices/Mobile/Android/Top Repositories/app/src/main/res/layout/fragment_search.xml" value="0.22" />
+        <entry key="..\:/Practices/Mobile/Android/Top Repositories/app/src/main/res/layout/repo_view_item.xml" value="0.19067028985507245" />
+        <entry key="..\:/Practices/Mobile/Android/Top Repositories/app/src/main/res/layout/repos_load_state_footer_view_item.xml" value="0.19067028985507245" />
+        <entry key="..\:/Practices/Mobile/Android/Top Repositories/app/src/main/res/layout/separator_view_item.xml" value="0.19067028985507245" />
         <entry key="..\:/Practices/Mobile/Android/android-paging/advanced/end/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/Practices/Mobile/Android/android-paging/advanced/end/app/src/main/res/layout/activity_search_repositories.xml" value="0.1" />
         <entry key="..\:/Practices/Mobile/Android/android-paging/advanced/end/app/src/main/res/layout/content_home.xml" value="0.1" />
